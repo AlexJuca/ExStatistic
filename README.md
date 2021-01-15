@@ -36,7 +36,4 @@ list = [600 , 470 , 170 , 430 , 300]
 ExStatistic.std_dev(list) == 147.32277488562318
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/ex_statistic](https://hexdocs.pm/ex_statistic).
 
