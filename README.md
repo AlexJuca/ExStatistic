@@ -2,6 +2,8 @@
 
 ExStatistic is a library containing the most common statistical functions
 
+![Elixir CI](https://github.com/AlexJuca/ExStatistic/workflows/Elixir%20CI/badge.svg)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
